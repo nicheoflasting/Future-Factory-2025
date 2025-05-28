@@ -4,6 +4,6 @@
 
 * In this feature I used XAMPP and phpAdmin to connect and storing data from account creation. To run on browser, it is necessary to turn on Apache and MySQL in XAMPP. Then, access the PHP file with "localhost"
 
-* **Important**: The file needs to be set in htdocs folder of XAMPP
+* **Important**: The coding folder needs to be placed in htdocs folder of XAMPP
 
 [PHP Password Reset by Email](https://youtu.be/jvBzlqoEVF0?si=m15VwDhF2VLlJKYu)
