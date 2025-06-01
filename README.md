@@ -8,4 +8,4 @@ This repository contains the code I used for the Youtube tutorial Reset Password
 
 * **Important**: The coding folder needs to be placed in htdocs folder of XAMPP
 
-[PHP Password Reset by Email](https://youtu.be/jvBzlqoEVF0?si=m15VwDhF2VLlJKYu)
+This is the video for my test: [PHP Password Reset by Email](https://youtu.be/jvBzlqoEVF0?si=m15VwDhF2VLlJKYu)
